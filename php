@@ -1,1 +1,1 @@
-phpinfo()
+222phpinfo()
